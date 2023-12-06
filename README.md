@@ -1,2 +1,2 @@
-# Assiut-University-Training---Newcomers-Solution
 Assiut University Training Newcomers Sheet Solutions
+Sheet Link --> https://codeforces.com/group/MWSDmqGsZm/contests
